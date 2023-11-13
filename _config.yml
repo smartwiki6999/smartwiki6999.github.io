@@ -1,19 +1,19 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+title: SmartWiki
+description: '상상한 만큼 최적가의 쇼핑으로 돈을 아끼는 사이트'
 url: 'https://smartwiki6999.github.io'
-baseurl: '/'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'SmartWiki'
+  email: snlee6999a@gmail.com.com
+  twitter_username: vikirani1214
+  facebook_username: 
+  github_username: 
+  linkedin_username: 
 
 defaults:
   -
