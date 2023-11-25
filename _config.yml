@@ -1,6 +1,6 @@
 # Site settings
-
-description: '상상한 만큼 최적가의 쇼핑으로 돈을 아끼는 사이트 / SmartWiki'
+title:''
+description: '상상한 만큼 최적가의 쇼핑으로 돈을 아끼는 사이트 SmartWiki'
 url: 'https://smartwiki6999.github.io'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
