@@ -7,8 +7,6 @@ baseurl: ''
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
 
-timezone: "Asia/Seoul"
-
 author:
   name: 'SmartWiki'
   email: snlee6999a@gmail.com.com
@@ -44,3 +42,5 @@ kramdown:
 
 plugins: ['jekyll-paginate']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+
+timezone: "Asia/Seoul"
