@@ -1,12 +1,12 @@
 ---
-title: "칼하트디트로이트자켓 추천 TOP10 - [20대][남성]  Carhartt 칼하트 아메리칸 디트로이트 재킷 빈티지 남성 자켓 "
+title: "노트북 추천 TOP10 - [20대][남성]  LG전자 그램 Pro 16 코어 울트라5 인텔 Arc, 에센스 화이트, 256GB, 16GB, WIN11 Home, 16Z"
 author: SmartWiki
 categories: shopping
 tags: [Top10, shopping]
 pin: true
 ---
 
-> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**칼하트디트로이트자켓**](https://link.coupang.com/a/baae76)들을 추천해드리고 있습니다.
+> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**노트북**](https://link.coupang.com/a/baae76)들을 추천해드리고 있습니다.
 <style>
     /* 기본 스타일 */
     .product-box {
@@ -58,27 +58,27 @@ pin: true
 <div>
 
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7820239952&traceid=V0-153&itemId=21238587782&vendorItemId=88766132774" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7879510129&traceid=V0-153&itemId=21086817606&vendorItemId=88148892306" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/aedb/0836fc4027ac69d960f8da3c0fd572ac0c7e05ca2dcb064ec7b110442c6c.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1347384244558067-be6cd5f5-8688-4aca-b5c4-b08c319cd64c.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        1.  Carhartt 칼하트 아메리칸 디트로이트 재킷 빈티지 남성 자켓 
+                        1.  LG전자 그램 Pro 16 코어 울트라5 인텔 Arc, 에센스 화이트, 256GB, 16GB, WIN11 Home, 16Z90SP-GA5CK 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">43%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">91,800원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">1,829,420원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 0개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 68개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7820239952&traceid=V0-153&itemId=21238587782&vendorItemId=88766132774" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7879510129&traceid=V0-153&itemId=21086817606&vendorItemId=88148892306" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -87,19 +87,19 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7871009243&traceid=V0-153&itemId=21501416324&vendorItemId=88705902307" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7883251058&traceid=V0-153&itemId=21564401198&vendorItemId=88616515195" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/7998/2b4978093a7b890dac28e38e6550cc072740b1976e9cac3083f1715291f0.png" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/gpz8e66u/e8e025b3d48247fba8525a43f2723834.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        2.  Carhartt J97 칼하트 디트로이트 남녀공용 워싱 자켓 3color 그린 카키 그레이 
+                        2.  에이수스 2024 TUF 게이밍 A15 라이젠7 라이젠 8000 시리즈 지포스 RTX 4060, Mecha Gray, 512GB, 16GB, Free DOS, FA507UV-HQ095 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">35%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">160,000원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">1,499,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 
@@ -107,7 +107,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 0개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7871009243&traceid=V0-153&itemId=21501416324&vendorItemId=88705902307" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7883251058&traceid=V0-153&itemId=21564401198&vendorItemId=88616515195" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -116,27 +116,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6082237358&traceid=V0-153&itemId=11281357955&vendorItemId=78558188580" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7792795337&traceid=V0-153&itemId=21086817522&vendorItemId=88148892197" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/0046/ca81e4c0478a591537e685a466450b799aff9ff2ee7d0d93af8c199f38a3.JPG" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1347384109646978-f5c6ed27-1ca0-4e73-9bed-fa4c11c7f4d4.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        3.  론드 스웨이드 투웨이 자켓 
+                        3.  LG전자 그램 Pro 16 코어 울트라7 RTX3050, 옵시디안 블랙, 512GB, 32GB, WIN11 Home, 16Z90SP-ED7BK 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">79,000원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">2,740,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.0
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 10개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 12개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6082237358&traceid=V0-153&itemId=11281357955&vendorItemId=78558188580" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7792795337&traceid=V0-153&itemId=21086817522&vendorItemId=88148892197" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -145,27 +145,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7790395018&traceid=V0-153&itemId=21075347968&vendorItemId=88332623885" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6990469893&traceid=V0-153&itemId=17107738286&vendorItemId=84281482577" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6e2e/4e6e74e28c95a0573ac50623b6f0c9a7a93695e170a3c5ec98f6a151109b.jpeg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/298805464638389-ca1c0934-3411-4ff0-a3aa-aea9cb288b28.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        4.  칼하트 자켓 베스트상품 (디트로이트 덕액티브 J140 워크자켓 등) 
+                        4.  레노버 2022 아이디어패드 슬림 1 15AMN7 15.6 라이젠3 라이젠 7000 시리즈, Cloud Grey (82VG), 256GB, 8GB, Free DOS, 82VG002EKR 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">42%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">188,800원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">452,970원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 0개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 1137개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7790395018&traceid=V0-153&itemId=21075347968&vendorItemId=88332623885" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6990469893&traceid=V0-153&itemId=17107738286&vendorItemId=84281482577" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -174,27 +174,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7907448993&traceid=V0-153&itemId=21689611940&vendorItemId=88739451695" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6703045034&traceid=V0-153&itemId=15532761751&vendorItemId=82751961770" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/906d/fb7b8d55dcd4f2dc10bc454d8561a89e213566560c1761bdc74d1c4fab9e.jpeg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/5d26/717fe8bc7f7b49270676df2049d696a6b696b11c35a4c799b1b736c7873b.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        5.  100% 카우스킨 소가죽 카라넥 기본 가죽자켓 
+                        5.  삼성전자 갤럭시북2/3 15.6 재택근무 학습용 노트북 한컴오피스팩 및 국내 정품 윈도우 패키지 동봉, NT550-I5, WIN11 Home, 16GB, 250GB, 코어i5, 그라파이트 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">149,000원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">855,940원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 0개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 2025개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7907448993&traceid=V0-153&itemId=21689611940&vendorItemId=88739451695" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6703045034&traceid=V0-153&itemId=15532761751&vendorItemId=82751961770" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -203,27 +203,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6161730799&traceid=V0-153&itemId=11963006341&vendorItemId=79235582147" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6662026640&traceid=V0-153&itemId=15294714959&vendorItemId=82515116791" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/46dc/d0414037ea5d1ae91be6c79dafa969c800a995d1cadfdee457b1f5388a2f.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/306941332537116-b675bf77-956f-47d3-9538-7545943e0eb8.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        6.  루카드 스판 스웨이드 자켓 
+                        6.  베이직스 2022 베이직북 14 3세대 셀러론, White, 256GB, 8GB, WIN11 Pro, BB1422SS 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">62%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">74,900원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">396,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.0
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 5개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 1775개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6161730799&traceid=V0-153&itemId=11963006341&vendorItemId=79235582147" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6662026640&traceid=V0-153&itemId=15294714959&vendorItemId=82515116791" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -232,27 +232,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7600181587&traceid=V0-153&itemId=20103103313&vendorItemId=88609331050" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7709148497&traceid=V0-153&itemId=20660237250&vendorItemId=86160350574" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/88cc/016b6b6c94c0b22817b41c79fd5b676178640013e24dde2fc474669e0394.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3561561544309485-96a93cbb-2e44-4ab7-be63-9290bd7b37df.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        7.  Carhartt WIP 디트로이트 워싱 덕 캔버스 워크 자켓 워크웨어 재킷 빈티지재킷J97 
+                        7.  LG전자 2023 그램15 코어i5 인텔 13세대, 스노우 화이트, 256GB, 16GB, WIN11 Home, 15Z90RU-GAOWK 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">161,600원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">1,550,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 1개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 714개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7600181587&traceid=V0-153&itemId=20103103313&vendorItemId=88609331050" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7709148497&traceid=V0-153&itemId=20660237250&vendorItemId=86160350574" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -261,27 +261,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7905557588&traceid=V0-153&itemId=21678140479&vendorItemId=88728370091" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6372763434&traceid=V0-153&itemId=19064151414&vendorItemId=86187002175" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/bae4/adcbd42abebdcbdff2cf4ce9e9182ac2712f3d4f87d7588f91046b69caa6.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3564201908198878-6bf3674c-f1fc-4d81-b45d-f2906635d14a.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        8.  칼하트 자켓 WIP carhartt 디트로이트 재킷 J97 워싱 남여공용 코트 
+                        8.  LG전자 2021 울트라 PC 14 셀러론, 화이트, 128GB, 4GB, WIN11 Home, 14U30P-LE12K 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">115,200원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">450,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 0개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 438개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7905557588&traceid=V0-153&itemId=21678140479&vendorItemId=88728370091" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6372763434&traceid=V0-153&itemId=19064151414&vendorItemId=86187002175" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -290,27 +290,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6729543717&traceid=V0-153&itemId=15675641935&vendorItemId=82891110927" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7325501542&traceid=V0-153&itemId=21074865880&vendorItemId=88240693659" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/0bb2/b967d369c3fca2931cf9b4cdf0f014748883fa2dc994b88c390482ebffb1.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/34ee/bb6446a012f1f214bd8b6771c62cd4f4bed26cdfeec2871dc027decedbf7.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        9.  트래드클럽 남성용 베리 수트 세트 
+                        9.  LG전자 그램 15인치 16인치 17인치 512GB RAM16G 정품윈도우포함 노트북, 블랙, 14인치, i7, 16GB, WIN11 Home 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">125,000원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">1,079,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 705개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 35개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6729543717&traceid=V0-153&itemId=15675641935&vendorItemId=82891110927" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7325501542&traceid=V0-153&itemId=21074865880&vendorItemId=88240693659" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -319,27 +319,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7905559131&traceid=V0-153&itemId=21678151400&vendorItemId=88728382182" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7389889714&traceid=V0-153&itemId=19059391472&vendorItemId=86182358190" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/9829/8b5efd6518a9b984dac1d4ef0ab759005742545709eeac240f286850b70c.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4865789165246440-b6baca43-9455-4bd7-9348-6b0496a6a29b.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        10.  칼하트 덕 디트로이트 자켓 빈티지 코트 남여공용 점퍼 루즈핏 
+                        10.  LG전자 2023 그램 16 코어i5 인텔 13세대, 스노우 화이트, 256GB, 16GB, WIN11 Home, 16Z90RU-GAOWK 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">29%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">99,200원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">1,578,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 0개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 815개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7905559131&traceid=V0-153&itemId=21678151400&vendorItemId=88728382182" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7389889714&traceid=V0-153&itemId=19059391472&vendorItemId=86182358190" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>

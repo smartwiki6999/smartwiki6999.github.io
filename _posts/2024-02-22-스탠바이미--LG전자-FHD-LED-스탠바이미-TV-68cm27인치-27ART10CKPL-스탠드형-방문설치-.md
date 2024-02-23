@@ -1,12 +1,12 @@
 ---
-title: "칼하트디트로이트자켓 추천 TOP10 - [20대][남성]  Carhartt 칼하트 아메리칸 디트로이트 재킷 빈티지 남성 자켓 "
+title: "스탠바이미 추천 TOP10 - [20대][남성]  LG전자 FHD LED 스탠바이미 TV, 68cm(27인치), 27ART10CKPL, 스탠드형, 방문설치 "
 author: SmartWiki
 categories: shopping
 tags: [Top10, shopping]
 pin: true
 ---
 
-> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**칼하트디트로이트자켓**](https://link.coupang.com/a/baae76)들을 추천해드리고 있습니다.
+> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**스탠바이미**](https://link.coupang.com/a/baae76)들을 추천해드리고 있습니다.
 <style>
     /* 기본 스타일 */
     .product-box {
@@ -58,27 +58,27 @@ pin: true
 <div>
 
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7820239952&traceid=V0-153&itemId=21238587782&vendorItemId=88766132774" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7621850673&traceid=V0-153&itemId=20209464294&vendorItemId=86616756296" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/aedb/0836fc4027ac69d960f8da3c0fd572ac0c7e05ca2dcb064ec7b110442c6c.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4272833415488768-c6ce7266-ac50-466c-a676-ba43b73ab0c4.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        1.  Carhartt 칼하트 아메리칸 디트로이트 재킷 빈티지 남성 자켓 
+                        1.  LG전자 FHD LED 스탠바이미 TV, 68cm(27인치), 27ART10CKPL, 스탠드형, 방문설치 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">43%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">91,800원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">891,600원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 0개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 355개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7820239952&traceid=V0-153&itemId=21238587782&vendorItemId=88766132774" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7621850673&traceid=V0-153&itemId=20209464294&vendorItemId=86616756296" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -87,27 +87,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7871009243&traceid=V0-153&itemId=21501416324&vendorItemId=88705902307" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7849629446&traceid=V0-153&itemId=21392156345&vendorItemId=88448870376" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/7998/2b4978093a7b890dac28e38e6550cc072740b1976e9cac3083f1715291f0.png" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/aff0/f21360e4f1b04f5f5c435a6bc6e4abe9095a533f214bef262742b77e155f.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        2.  Carhartt J97 칼하트 디트로이트 남녀공용 워싱 자켓 3color 그린 카키 그레이 
+                        2.  무빙큐빅스 스마트 32인치 삼탠바이미 (블랙) SET 이동식 tv 삼텐바이미, 고객직접설치 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">35%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">160,000원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">299,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 0개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 5개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7871009243&traceid=V0-153&itemId=21501416324&vendorItemId=88705902307" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7849629446&traceid=V0-153&itemId=21392156345&vendorItemId=88448870376" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -116,27 +116,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6082237358&traceid=V0-153&itemId=11281357955&vendorItemId=78558188580" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7406016915&traceid=V0-153&itemId=19178586516&vendorItemId=86296515006" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/0046/ca81e4c0478a591537e685a466450b799aff9ff2ee7d0d93af8c199f38a3.JPG" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/knqamy7l/5896034c03984ac2b915cd54ccb4966a.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        3.  론드 스웨이드 투웨이 자켓 
+                        3.  LG전자 FHD LED 스탠바이미 Go TV, 68cm, 27LX5QKNA, 스탠드형, 방문설치 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">79,000원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">988,700원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.0
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 10개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 139개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6082237358&traceid=V0-153&itemId=11281357955&vendorItemId=78558188580" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7406016915&traceid=V0-153&itemId=19178586516&vendorItemId=86296515006" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -145,19 +145,19 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7790395018&traceid=V0-153&itemId=21075347968&vendorItemId=88332623885" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7881518928&traceid=V0-153&itemId=21555546357&vendorItemId=88608147719" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6e2e/4e6e74e28c95a0573ac50623b6f0c9a7a93695e170a3c5ec98f6a151109b.jpeg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/43df/67894d608e731d6b4ddb6edf72afae385d6c41b0e0d41e9742a7c7935af6.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        4.  칼하트 자켓 베스트상품 (디트로이트 덕액티브 J140 워크자켓 등) 
+                        4.  뷰탠바이미 스마트 27인치 삼탠바이미 SET 이동식 TV 스탠바이미, 뷰탠바이미 27 화이트 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">42%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">188,800원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">319,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 
@@ -165,7 +165,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 0개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7790395018&traceid=V0-153&itemId=21075347968&vendorItemId=88332623885" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7881518928&traceid=V0-153&itemId=21555546357&vendorItemId=88608147719" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -174,27 +174,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7907448993&traceid=V0-153&itemId=21689611940&vendorItemId=88739451695" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7849642690&traceid=V0-153&itemId=21392228016&vendorItemId=88448941411" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/906d/fb7b8d55dcd4f2dc10bc454d8561a89e213566560c1761bdc74d1c4fab9e.jpeg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/3976/989915a831f3dea7663e12f77c0bbefc6fd3b6fe21c9e3cbf9a3a32cb3c4.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        5.  100% 카우스킨 소가죽 카라넥 기본 가죽자켓 
+                        5.  무빙큐빅스 스마트 40인치 삼탠바이미 (블랙) SET 이동식 tv 삼텐바이미, 고객직접설치 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">149,000원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">349,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 0개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 4개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7907448993&traceid=V0-153&itemId=21689611940&vendorItemId=88739451695" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7849642690&traceid=V0-153&itemId=21392228016&vendorItemId=88448941411" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -203,27 +203,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6161730799&traceid=V0-153&itemId=11963006341&vendorItemId=79235582147" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7849662179&traceid=V0-153&itemId=21392310690&vendorItemId=88449022711" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/46dc/d0414037ea5d1ae91be6c79dafa969c800a995d1cadfdee457b1f5388a2f.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/59a4/f26e22a79ef15da23af0d58edf00d6194524c320efe003ed675c5caefbca.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        6.  루카드 스판 스웨이드 자켓 
+                        6.  무빙큐빅스 스마트 43인치 FHD 삼탠바이미 (블랙) SET 이동식 tv 삼텐바이미, 고객직접설치 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">62%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">74,900원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">369,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.0
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 5개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 2개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6161730799&traceid=V0-153&itemId=11963006341&vendorItemId=79235582147" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7849662179&traceid=V0-153&itemId=21392310690&vendorItemId=88449022711" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -232,27 +232,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7600181587&traceid=V0-153&itemId=20103103313&vendorItemId=88609331050" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7773979861&traceid=V0-153&itemId=20995186432&vendorItemId=88059507495" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/88cc/016b6b6c94c0b22817b41c79fd5b676178640013e24dde2fc474669e0394.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/9b22/00ad73903c223a4fac38562f80a76843d277bd3db3b82b2fddb828a41601.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        7.  Carhartt WIP 디트로이트 워싱 덕 캔버스 워크 자켓 워크웨어 재킷 빈티지재킷J97 
+                        7.  무빙큐빅스 스마트 40인치 삼탠바이미 (화이트) SET 이동식 tv 거치대 스탠바이미, 택배 배송(자가설치) 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">161,600원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">349,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 1개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 23개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7600181587&traceid=V0-153&itemId=20103103313&vendorItemId=88609331050" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7773979861&traceid=V0-153&itemId=20995186432&vendorItemId=88059507495" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -261,27 +261,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7905557588&traceid=V0-153&itemId=21678140479&vendorItemId=88728370091" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7844140179&traceid=V0-153&itemId=21362372889&vendorItemId=88419881329" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/bae4/adcbd42abebdcbdff2cf4ce9e9182ac2712f3d4f87d7588f91046b69caa6.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/cb24/210c7806bfa9a8e82b6f3424f0c501e1887243ddfb94a2d802bd5c94824c.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        8.  칼하트 자켓 WIP carhartt 디트로이트 재킷 J97 워싱 남여공용 코트 
+                        8.  뷰탠바이미 스마트 24인치 삼탠바이미 (화이트) SET 이동식 TV 스탠바이미, 뷰싱크 스마트 24인치 삼탠바이미 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">115,200원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">289,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 0개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 6개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7905557588&traceid=V0-153&itemId=21678140479&vendorItemId=88728370091" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7844140179&traceid=V0-153&itemId=21362372889&vendorItemId=88419881329" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -290,27 +290,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6729543717&traceid=V0-153&itemId=15675641935&vendorItemId=82891110927" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7589252329&traceid=V0-153&itemId=18651684011&vendorItemId=85786528372" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/0bb2/b967d369c3fca2931cf9b4cdf0f014748883fa2dc994b88c390482ebffb1.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/04/26/10/3/4fdd4fe4-6adc-4a0d-a977-ae412aa56732.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        9.  트래드클럽 남성용 베리 수트 세트 
+                        9.  삼성전자 4K QLED TV QC67, 214cm(85인치), KQ85QC67AFXKR, 스탠드형, 방문설치 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">125,000원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">3,028,970원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 705개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 2185개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6729543717&traceid=V0-153&itemId=15675641935&vendorItemId=82891110927" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7589252329&traceid=V0-153&itemId=18651684011&vendorItemId=85786528372" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -319,27 +319,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7905559131&traceid=V0-153&itemId=21678151400&vendorItemId=88728382182" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7773957304&traceid=V0-153&itemId=20995073744&vendorItemId=88059396774" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/9829/8b5efd6518a9b984dac1d4ef0ab759005742545709eeac240f286850b70c.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b471/95da9ed3edb5d013b60594eb76b4d81d590ff39fa45092c92564fb60924f.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        10.  칼하트 덕 디트로이트 자켓 빈티지 코트 남여공용 점퍼 루즈핏 
+                        10.  무빙큐빅스 스마트 32인치 삼탠바이미 (화이트) SET 이동식 tv 거치대 스탠바이미, 택배 배송(자가설치) 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">29%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">99,200원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">299,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 0개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 11개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7905559131&traceid=V0-153&itemId=21678151400&vendorItemId=88728382182" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7773957304&traceid=V0-153&itemId=20995073744&vendorItemId=88059396774" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
