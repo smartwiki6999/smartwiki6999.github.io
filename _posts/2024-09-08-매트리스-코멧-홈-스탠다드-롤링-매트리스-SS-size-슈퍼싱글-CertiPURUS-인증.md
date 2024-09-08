@@ -1,0 +1,350 @@
+---
+title: "매트리스 추천 TOP10 - 코멧 홈 스탠다드 롤링 매트리스 SS size (슈퍼싱글) CertiPUR-US 인증"
+author: SmartWiki
+categories: shopping
+tags: [Top10, shopping]
+pin: true
+---
+
+> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**매트리스**](https://link.coupang.com/a/baae76)들을 추천해드리고 있습니다.
+<style>
+    /* 기본 스타일 */
+    .product-box {
+        border: 1px solid #ddd;
+        padding: 20px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+
+	h1 {
+        font-size: 2.2em; /* 기본 글꼴 크기 */
+	}
+	
+	h3 {
+        font-size: 1.3em; /* 기본 글꼴 크기 */
+	}
+	
+    .product-box img {
+        width: 250px; /* 이미지가 부모 요소의 100%를 차지하도록 설정 */
+        height: auto;
+        border-radius: 10px;
+    }
+
+    /* 미디어 쿼리 추가 */
+    @media screen and (max-width: 600px) {
+        .product-box {
+            font-size: 15px; /* 작은 크기로 조절 */
+            flex-direction: column; /* 화면이 작아질 때 세로로 정렬 */
+            align-items: center; /* 가운데 정렬을 위해 추가 */
+        }
+        .product-box img {
+            max-width: 100%; /* 이미지의 최대 크기를 100%로 설정 (원래 크기로 확대) */
+            width: 250px; /* 이미지의 크기를 원래 크기로 설정 */
+            height: auto;
+        }
+        
+        h1 {
+        font-size: 1.8em; /* 기본 글꼴 크기 */
+		}
+		
+        h3{
+        font-size: 1.2em; /* 기본 글꼴 크기 */
+		}
+    }
+</style>
+<div>
+
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=5611860151&traceid=V0-153&itemId=9071860440&vendorItemId=76358163502" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/94201019870483-843971bb-394e-45eb-9b44-e3a632c0aed8.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        1. 코멧 홈 스탠다드 롤링 매트리스 SS size (슈퍼싱글) CertiPUR-US 인증
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">30%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">95,990원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 6412개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=5611860151&traceid=V0-153&itemId=9071860440&vendorItemId=76358163502" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7982164681&traceid=V0-153&itemId=22153333391&vendorItemId=90916638086" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/0247/e5e9803d038cfe5ce0ebd669bfc094723a82da63f4c76e7f894f36e63b3c.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        2. KURUA 침대 매트리스(슈퍼싱글)독립스프링 매트리스
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">1%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">96,000원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 1026개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7982164681&traceid=V0-153&itemId=22153333391&vendorItemId=90916638086" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6375036337&traceid=V0-153&itemId=13519128112&vendorItemId=90026973875" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/0905_amir_furniture_max3k/f5c7/60b68075ffad391b84482767ae45b4ffe00179e725b898a0e490655b1311.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        3. 몽스홈 원룸 바닥 단단한 3단 접이식 마약매트리스 6cm 10cm 14cm 수면매트 자취 접는 침대 매트릭스 토퍼
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">60%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">149,000원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 4515개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6375036337&traceid=V0-153&itemId=13519128112&vendorItemId=90026973875" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6456259877&traceid=V0-153&itemId=16372609011&vendorItemId=83564110729" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1281395663300906-7d4b2489-9edb-44a7-8f2b-cac3f22f4e58.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        4. 홈잡스 9존 슬립 접이식 토퍼 매트리스 + 결합벨트
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">4%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">49,900원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 3916개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=6456259877&traceid=V0-153&itemId=16372609011&vendorItemId=83564110729" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7189873460&traceid=V0-153&itemId=18150971114&vendorItemId=85209165493" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/0820_amir_esrgan_inf80k_batch_0_max3k/6376/90b02847ce6b6fa3b46daa53900039dff64ee02fd6d53a56fdb3f77fa1b7.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        5. 더릭스홈 3단 접이식 마약매트리스 6cm 10cm 15cm 원룸 바닥 단단한 수면매트 자취 접는 침대 매트릭스 토퍼
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">60%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">69,000원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 1447개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7189873460&traceid=V0-153&itemId=18150971114&vendorItemId=85209165493" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7518662045&traceid=V0-153&itemId=19715355768&vendorItemId=86819627150" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/2f95/31d82bcbc721b1877f9fe340950a4aec7590ea1f1da1a5c7df58ec8e0dda.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        6. 숙면연구소 베이직 탄탄한 마약매트리스 6cm 10cm 15cm 허리에좋은 원룸 바닥 단단한 수면매트 자취 침대 라텍스 매트릭스 토퍼
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">48%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">79,000원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 270개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7518662045&traceid=V0-153&itemId=19715355768&vendorItemId=86819627150" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7079861790&traceid=V0-153&itemId=17608514990&vendorItemId=84774622437" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2858278923192698-d5e98382-b5a8-45ab-956f-d96cb7051ad4.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        7. 웰퍼니쳐 허리엔 이즈코어 엔드리스 허리특화 스프링 매트리스 220mm 방문설치, 그레이
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">34%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">157,000원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 1751개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7079861790&traceid=V0-153&itemId=17608514990&vendorItemId=84774622437" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7518662045&traceid=V0-153&itemId=19715355768&vendorItemId=86819627150" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/2f95/31d82bcbc721b1877f9fe340950a4aec7590ea1f1da1a5c7df58ec8e0dda.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        8. 숙면연구소 베이직 탄탄한 마약매트리스 6cm 10cm 15cm 허리에좋은 원룸 바닥 단단한 수면매트 자취 침대 라텍스 매트릭스 토퍼
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">48%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">79,000원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 270개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7518662045&traceid=V0-153&itemId=19715355768&vendorItemId=86819627150" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7757914328&traceid=V0-153&itemId=20913898540&vendorItemId=88341890595" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/1846/0aca73d8719ca2339ee93e0692b1541650e253b43913126785205247183c.png" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        9. 퍼즈 통잠매트 양면 바닥 토퍼 매트리스 라텍스 매트릭스 9cm
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">5%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">103,400원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 298개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=7757914328&traceid=V0-153&itemId=20913898540&vendorItemId=88341890595" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=8260959540&traceid=V0-153&itemId=23797930284&vendorItemId=90822215823" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/e74f/f9ec457efb2bc472fcfff53b289db6261137e9c38d6e02909e65146ecd29.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        10. FANOBO 매트리스 프리미엄 토퍼매트리스 견고한 스프링 침대매트리스 슈퍼싱글매트리스 바닥매트리스, 화이트 매트리스
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">84,900원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 425개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartwiki6999&pageKey=8260959540&traceid=V0-153&itemId=23797930284&vendorItemId=90822215823" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        </div>
+<br> [📢 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.](https://link.coupang.com/a/baae76){: .center}
